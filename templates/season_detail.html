@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}{{ year }} Season - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/seasons" class="back-link">&larr; Back to seasons</a>
+<h1>{{ year }} Season ({{ platform }})</h1>
+<p>
+    <a href="/season/{{ season_id }}/rosters">View final rosters</a> &nbsp;|&nbsp;
+    <a href="/season/{{ season_id }}/draft">View draft results</a>
+</p>
+<table>
+    <tr>
+        <th>Owner</th>
+        <th>Team Name</th>
+        <th>Wins</th>
+        <th>Losses</th>
+        <th>Points For</th>
+        <th>Points Against</th>
+        <th>Made Playoffs</th>
+        <th>Champion</th>
+    </tr>
+    {% for row in teams %}
+    <tr>
+        <td><a href="/owner/{{ row[0] }}">{{ row[1] }}</a></td>
+        <td>{{ row[2] }}</td>
+        <td>{{ row[3] }}</td>
+        <td>{{ row[4] }}</td>
+        <td>{{ row[5] }}</td>
+        <td>{{ row[6] }}</td>
+        <td>{{ "Yes" if row[7] else "No" }}</td>
+        <td class="trophy">{{ "🏆" if row[8] else "" }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% if bracket_matches %}
+<h2>Playoff Bracket</h2>
+<table>
+    <tr>
+        <th>Round</th>
+        <th>Matchup</th>
+        <th>Winner</th>
+        <th>Championship?</th>
+    </tr>
+    {% for m in bracket_matches %}
+    <tr>
+        <td>{{ m.round }}</td>
+        <td>{{ m.team1_name }} vs {{ m.team2_name }}</td>
+        <td>{{ m.winner_name }}</td>
+        <td class="trophy">{{ "🏆 Yes" if m.is_championship else "" }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endif %}
+{% endblock %}

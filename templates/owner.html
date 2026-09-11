@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}{{ owner_name }} - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/" class="back-link">&larr; Back to leaderboard</a>
+<h1>{{ owner_name }}</h1>
+<table>
+    <tr>
+        <th>Year</th>
+        <th>Platform</th>
+        <th>Team Name</th>
+        <th>Wins</th>
+        <th>Losses</th>
+        <th>Points For</th>
+        <th>Made Playoffs</th>
+        <th>Champion</th>
+    </tr>
+    {% for row in seasons %}
+    <tr>
+        <td>{{ row[0] }}</td>
+        <td>{{ row[1] }}</td>
+        <td>{{ row[2] }}</td>
+        <td>{{ row[3] }}</td>
+        <td>{{ row[4] }}</td>
+        <td>{{ row[5] }}</td>
+        <td>{{ "Yes" if row[6] else "No" }}</td>
+        <td class="trophy">{{ "🏆" if row[7] else "" }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

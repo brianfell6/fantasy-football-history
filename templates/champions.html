@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Champions - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/" class="back-link">&larr; Back to leaderboard</a>
+<h1>League Champions</h1>
+<table>
+    <tr>
+        <th>Year</th>
+        <th>Platform</th>
+        <th>Champion</th>
+        <th>Team Name</th>
+        <th>Record</th>
+    </tr>
+    {% for row in champs %}
+    <tr>
+        <td>{{ row[0] }}</td>
+        <td>{{ row[1] }}</td>
+        <td><a href="/owner/{{ row[2] }}">{{ row[3] }}</a></td>
+        <td>{{ row[4] }}</td>
+        <td>{{ row[5] }}-{{ row[6] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

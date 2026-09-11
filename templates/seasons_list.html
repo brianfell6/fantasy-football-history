@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Seasons - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/" class="back-link">&larr; Back to leaderboard</a>
+<h1>Browse Seasons</h1>
+<div class="card">
+    <ul>
+        {% for row in all_seasons %}
+        <li><a href="/season/{{ row[0] }}">{{ row[1] }} ({{ row[2] }})</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

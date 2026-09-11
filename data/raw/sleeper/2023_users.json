@@ -1,0 +1,246 @@
+[
+  {
+    "avatar": "7308291b2025f511b1cae36286c44578",
+    "display_name": "SalGargiulo57",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/46a4235622895ac8b1702965289356fa.jpg",
+      "mention_pn": "on",
+      "team_name": "Captain Kirk (RIP Kirk)"
+    },
+    "settings": null,
+    "user_id": "862532554870337536"
+  },
+  {
+    "avatar": "9beb154763642695a75fd2503db34752",
+    "display_name": "ryanjaspan",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/da27fcad3127db3ae27a072d5f05f9f0.jpg",
+      "mention_pn": "on",
+      "team_name": "amon-ra dog her"
+    },
+    "settings": null,
+    "user_id": "991788583503609856"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "brianfell",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "archived": "on",
+      "avatar": "https://sleepercdn.com/uploads/528251a5688e5336acbce4832b8e41b9",
+      "mention_pn": "on",
+      "team_name": "Sunrise Retirement Home"
+    },
+    "settings": null,
+    "user_id": "994108712421806080"
+  },
+  {
+    "avatar": "d0500e4b2f1bdcda92cfb11cc464dc9b",
+    "display_name": "mihld",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/92aa01bfef7258e8557a9b1a6c2a546f.jpg",
+      "mention_pn": "on",
+      "team_name": "Unsolicited Dak Pics"
+    },
+    "settings": null,
+    "user_id": "994112915890348032"
+  },
+  {
+    "avatar": "eda68abbfc32ece844a5d0307acee10c",
+    "display_name": "petridiaki",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/c939bb3528a2c14d2c885d1db071a22c.jpg",
+      "mention_pn": "on",
+      "team_name": "Team Petrides"
+    },
+    "settings": null,
+    "user_id": "994276076346023936"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "JonShan",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "off",
+      "archived": "on",
+      "avatar": "https://sleepercdn.com/uploads/514aca5fe58dbc0282382c6f63d7121c.jpg",
+      "league_report_pn": "on",
+      "mascot_message": "off",
+      "mention_pn": "on",
+      "player_like_pn": "on",
+      "player_nickname_update": "off",
+      "team_name": "Taylor Swift's Favorite",
+      "team_name_update": "off",
+      "trade_block_pn": "on",
+      "transaction_commissioner": "on",
+      "transaction_free_agent": "on",
+      "transaction_trade": "on",
+      "transaction_waiver": "on",
+      "user_message_pn": "on"
+    },
+    "settings": null,
+    "user_id": "994676336096595968"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "Bannerdrake4",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Njigbas in Paris"
+    },
+    "settings": null,
+    "user_id": "994727287503278080"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "KevinCaswell",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/d851ac6990963edb8c23895598928d17",
+      "mention_pn": "on",
+      "team_name": "I am the one who Knox"
+    },
+    "settings": null,
+    "user_id": "994727767172243456"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "ChrisSonde",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "I JackSon's Off"
+    },
+    "settings": null,
+    "user_id": "994727996458156032"
+  },
+  {
+    "avatar": "3aab0c578b08dc794f3d327580c3d357",
+    "display_name": "D3Vries",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/422bbaad5e85087e9cad929072765088.jpg",
+      "mention_pn": "on",
+      "team_name": "They Might Be Giants"
+    },
+    "settings": null,
+    "user_id": "994729517677600768"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "BigBrianF",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "The SloBidens"
+    },
+    "settings": null,
+    "user_id": "994757347165810688"
+  },
+  {
+    "avatar": "f0edbf4278f53f9425db175073df6584",
+    "display_name": "willmruz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/3fc10a0b7e4fc0ac56882c4e22234973.jpg",
+      "mention_pn": "on",
+      "team_name": "Indianiel Jones"
+    },
+    "settings": null,
+    "user_id": "994768218264842240"
+  },
+  {
+    "avatar": "b3b0c86e339dae783b33657f3dd758e7",
+    "display_name": "Percy12345678",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/12a9fa9f6ab75ed56874cc42dae50fb7.jpg",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "995002066449862656"
+  },
+  {
+    "avatar": "db92504a1cee848e8ba0ae4931e57cde",
+    "display_name": "acaswell04",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "on",
+      "avatar": "https://sleepercdn.com/uploads/471b4d23820261cfc525e4ba66729c7f",
+      "mention_pn": "on",
+      "team_name": "Beast Mode"
+    },
+    "settings": null,
+    "user_id": "995148550860222464"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "mcaswell154",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "994110786538692608",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "995149491927830528"
+  }
+]

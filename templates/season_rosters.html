@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ year }} Rosters - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/season/{{ season_id }}" class="back-link">&larr; Back to {{ year }} season</a>
+<h1>{{ year }} {{ roster_type }} Rosters</h1>
+{% for team in rosters %}
+<div class="card">
+    <strong>{{ team.owner_name }} &mdash; {{ team.team_name }}</strong>
+    <ul>
+        {% for player in team.players %}
+        <li>{{ player }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+{% endblock %}

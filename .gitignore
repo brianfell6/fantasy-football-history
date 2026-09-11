@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+data/raw/espn/players.json
+data/raw/sleeper/players.json

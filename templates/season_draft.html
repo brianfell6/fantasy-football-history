@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ year }} Draft - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/season/{{ season_id }}" class="back-link">&larr; Back to {{ year }} season</a>
+<h1>{{ year }} Draft Results</h1>
+{% for team in rosters %}
+<div class="card">
+    <strong>{{ team.owner_name }} &mdash; {{ team.team_name }}</strong>
+    <ul>
+        {% for pick in team.picks|sort(attribute='pick_no') %}
+        <li>Round {{ pick.round }} (Pick {{ pick.pick_no }}): {{ pick.player }}</li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
+{% endblock %}

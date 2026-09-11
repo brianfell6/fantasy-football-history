@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Trades - Fell Fantasy League History{% endblock %}
+{% block content %}
+<a href="/" class="back-link">&larr; Back to leaderboard</a>
+<h1>All Trades</h1>
+<div class="partial-note">
+    Note: ESPN trades (marked *) are incomplete — ESPN's public data only shows players still on a roster at the time of our data pull, so some trade details from those years may be missing.
+</div>
+{% for trade in all_trades %}
+<div class="card">
+    <strong>{{ trade.traded_at.strftime('%b %d, %Y') }} &mdash; {{ trade.year }} ({{ trade.platform }}{% if trade.is_partial %} *{% endif %})</strong>
+    <table style="margin-top: 10px;">
+        <tr>
+            <th>Owner</th>
+            <th>Received</th>
+        </tr>
+        {% for side in trade.sides %}
+        <tr>
+            <td>{{ side.owner_name }}</td>
+            <td>
+                {% for player in side.players %}{{ player }}{% if not loop.last %}, {% endif %}{% endfor %}
+                {% if side.picks %}
+                    {% if side.players %}, {% endif %}
+                    {% for pick in side.picks %}{{ pick }}{% if not loop.last %}, {% endif %}{% endfor %}
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endfor %}
+{% endblock %}

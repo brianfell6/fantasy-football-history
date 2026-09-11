@@ -1,0 +1,209 @@
+[
+  {
+    "avatar": "9942a7a2552832fd26a9e58b63e1d2fb",
+    "display_name": "Metsrule1997",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/342c9139fcfcd0f6cfb480184aecaeef",
+      "mention_pn": "on",
+      "team_name": "Hawk Hawk Tua"
+    },
+    "settings": null,
+    "user_id": "694719465350320128"
+  },
+  {
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "SalGargiulo57",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "862532554870337536"
+  },
+  {
+    "avatar": "e7f6b1f406119c98f03b10220ec4224d",
+    "display_name": "kylesottosanti",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/e7f6b1f406119c98f03b10220ec4224d.jpg",
+      "mention_pn": "on",
+      "team_name": "Itty Bitty Griddy City"
+    },
+    "settings": null,
+    "user_id": "871295341524373504"
+  },
+  {
+    "avatar": "9beb154763642695a75fd2503db34752",
+    "display_name": "ryanjaspan",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "off",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "991788583503609856"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "brianfell",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/6caf55814ea31ea4703a374a12f7ad3e",
+      "mention_pn": "on",
+      "team_name": "Hawks Shoulda Ran"
+    },
+    "settings": null,
+    "user_id": "994108712421806080"
+  },
+  {
+    "avatar": "d0500e4b2f1bdcda92cfb11cc464dc9b",
+    "display_name": "mihld",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "archived": "off",
+      "mention_pn": "on",
+      "team_name": "My Chubb Hurts"
+    },
+    "settings": null,
+    "user_id": "994112915890348032"
+  },
+  {
+    "avatar": "eda68abbfc32ece844a5d0307acee10c",
+    "display_name": "petridiaki",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/f256d691a617c9685fff1f8b078d51aa.jpg",
+      "mention_pn": "on",
+      "team_name": "Almond-Ra St. Brown"
+    },
+    "settings": null,
+    "user_id": "994276076346023936"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "Bannerdrake4",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Baby Back Gibbs"
+    },
+    "settings": null,
+    "user_id": "994727287503278080"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "KevinCaswell",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/images/v2/avatars/avatar_default_blue.webp",
+      "mention_pn": "on",
+      "team_name": "Dak to the Future"
+    },
+    "settings": null,
+    "user_id": "994727767172243456"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "ChrisSonde",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Meatball Munchers"
+    },
+    "settings": null,
+    "user_id": "994727996458156032"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "BigBrianF",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Kamalatoes"
+    },
+    "settings": null,
+    "user_id": "994757347165810688"
+  },
+  {
+    "avatar": "b3b0c86e339dae783b33657f3dd758e7",
+    "display_name": "Percy12345678",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Boom"
+    },
+    "settings": null,
+    "user_id": "995002066449862656"
+  },
+  {
+    "avatar": "db92504a1cee848e8ba0ae4931e57cde",
+    "display_name": "acaswell04",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/3c1c8f84b0d55ce945ac1ced664b6d48",
+      "mention_pn": "on",
+      "team_name": "Da Ballerz"
+    },
+    "settings": null,
+    "user_id": "995148550860222464"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "ShoreTime",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1073712936624959488",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1126325422121181184"
+  }
+]
